@@ -21,7 +21,7 @@ do
         *) usage ;;
     esac
 done
-
+#É? BUÉDA FIXE
 # MODE 0 is for PRIMARY CLIPBOARD
 if [ $mode -eq 0 ]
 then
